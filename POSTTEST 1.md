@@ -11,5 +11,5 @@ Dengan mengerjakan POSTTEST 1 RANDING DBMS ini, diharapkan peserta dapat mengert
 ## DEADLINE ##
 Terakhir dikumpul pada Kamis, 12 Januari 2023 Pukul 23:59 WITA
 ## PENGUMPULAN ##
-* Kumpulkan dalam bentuk PDF ke Google Form berikut https://forms.gle/qTWmtg7GQQihsJgs9
+* Kumpulkan dalam bentuk PDF ke Google Drive masing-masing dan kumpulkan LINK ke Gform berikut https://forms.gle/qTWmtg7GQQihsJgs9
 * Jika dibuat di diagram.net mohon ERD-nya di EXPORT DULU, jangan di SS saja
