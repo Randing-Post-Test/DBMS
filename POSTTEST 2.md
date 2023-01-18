@@ -16,6 +16,6 @@ Dengan mengerjakan POSTTEST 2 RANDING DBMS ini, diharapkan peserta dapat menggun
 ## DEADLINE ##
 Minggu, 22 Januari 2023 Jam 23:59 WITA
 ## PENGUMPULAN ##
-Kumpulkan dalam bentuk PDF ke Google Drive masing-masing dan kumpulkan LINK ke Gform berikut
+Kumpulkan dalam bentuk PDF ke Google Drive masing-masing dan kumpulkan LINK ke Gform berikut https://forms.gle/i8F6zXBDLe1j4G3b8
 ## CONTOH ##
 ![Capturesql](https://user-images.githubusercontent.com/92817597/212583933-895e6609-39f2-401f-bcf1-bbbae594f487.PNG)
